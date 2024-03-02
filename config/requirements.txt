@@ -6,3 +6,4 @@ pip
 psycopg2-binary
 sqlalchemy
 sqlalchemy-utils
+mysqlclient

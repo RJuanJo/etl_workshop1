@@ -1,3 +1,5 @@
 .venv
 credentials.json
 Loaded Data.png
+../db_model/__pycache__
+New Table.png

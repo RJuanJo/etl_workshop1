@@ -4,7 +4,7 @@ This project consists of a Jupyter Notebook that contains solutions to specific 
 The Workshop demonstrate the use of SQLAlchemy as an ORM connected to MySQL, including data loading, transformation and visualizations.
 
 ### Table of Contents ###
-[Requirements](#requirements)
+- [Requirements](#requirements)
 - [Setup](#setup)
 - [Data Loading](#data-loading)
 - [Visualizations](#visualizations)
@@ -35,29 +35,32 @@ must have installed the following programs:
    - **[Python](https://www.python.org)**
    - **[MySQL](https://www.mysql.com/downloads/)**
    - **[PowerBI](https://powerbi.microsoft.com/es-es/downloads/)**
+   - **[VS Code](https://code.visualstudio.com/download)** or **[Jupyter](https://jupyter.org/install)**
 
 Using the **[requirements.txt](https://github.com/RJuanJo/etl_workshop1/blob/main/config/requirements.txt)**
-run the following command in **[Jupyter Notebooks](
+run the following command in **[Jupyter Notebooks](https://github.com/RJuanJo/etl_workshop1/tree/main/notebooks)**
 
 ```python
 pip install -r ../config/requirements.txt
 ```
-In this case the project is in a upyter notebook, an installation of jupyter is needed:
+Previous command will install the following necessary libraries for the project
 
 ```python
-pip install jupyterlab
+-importlib
+-matplotlib
+-numpy
+-pandas
+-pip
+-psycopg2-binary
+-sqlalchemy
+-sqlalchemy-utils
+-mysqlclient
 ```
-Then, you have to run the lab with the command:
 
-```python
-jupyter lab
-```
-After this steps, you have to clon this repository and run the jupyter notebook workshop.ipynb.
-Data Loading and Transformation <a name="data-loading-and-transformation"></a>
-Detalles sobre cómo se carga la data desde diversas fuentes hacia la base de datos, incluyendo pasos para la limpieza y transformación de datos.
+### Data Loading and Transformation <a name="data-loading"></a> ###
+This process was carried out in two parts, the **[First Notebook] is responsible for reading and loading the data into the MySQL database. These are loaded and stored using a structure or model defined in the db_model folder.
 
-Visualizations <a name="visualizations"></a>
-Descripciones y objetivos de cada visualización creada, con enlaces directos a las celdas específicas del Jupyter Notebook que contienen el código para generar estas visualizaciones.
+### Visualizations <a name="visualizations"></a> ###
 
 Hires by Technology (Pie Chart): Visualización de la distribución de contrataciones por tecnología.
 Hires by Year (Horizontal Bar Chart): Mostrar el número de contrataciones por año.

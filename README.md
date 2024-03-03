@@ -66,9 +66,12 @@ _The **[Second Notebook](https://github.com/RJuanJo/etl_workshop1/blob/main/note
 
 ### Visualizations <a name="visualizations"></a> ###
 
-Hires by Technology (Pie Chart): Visualización de la distribución de contrataciones por tecnología.
-Hires by Year (Horizontal Bar Chart): Mostrar el número de contrataciones por año.
-Hires by Seniority (Bar Chart): Representar el número de contrataciones por nivel de seniority.
-Hires by Country Over Years (Multiline Chart): Tendencias de contrataciones por país a lo largo de los años.
-How to Use
-Instrucciones detalladas sobre cómo ejecutar el Jupyter Notebook, incluyendo cualquier paso de configuración necesario antes de la ejecución.
+- Hires by Technology (Pie Chart): _Visualization of the distribution of hires by technology which were categorized to have a better format and ease when performing the analysis._
+
+- Hires by Year (Horizontal Bar Chart): _Shows the number of hires per year._
+
+- Hires by Seniority (Bar Chart): _Represents the number of hires by seniority level._
+
+- Hires by Country Over Years (Multiline Chart): _Hiring trends by the chosen countries over the years._
+
+

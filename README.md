@@ -58,7 +58,10 @@ Previous command will install the following necessary libraries for the project
 ```
 
 ### Data Loading and Transformation <a name="data-loading"></a> ###
-This process was carried out in two parts, the **[First Notebook](https://github.com/RJuanJo/etl_workshop1/blob/main/notebooks/load_data.ipynb)** is responsible for reading and loading the data into the MySQL database. These are loaded and stored using a structure or model defined in the db_model folder.
+```This process was carried out in two parts, the **[First Notebook](https://github.com/RJuanJo/etl_workshop1/blob/main/notebooks/load_data.ipynb)** is responsible for reading and loading the data into the MySQL database. These are loaded and stored using a structure or model defined in the **[db_model](https://github.com/RJuanJo/etl_workshop1/tree/main/db_model)** folder.```
+``` 
+
+```
 
 ### Visualizations <a name="visualizations"></a> ###
 

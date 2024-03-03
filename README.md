@@ -1,7 +1,8 @@
 # Data Engineering Workshop #
 ### Overview ###
-This project consists of a Jupyter Notebook that contains solutions to specific tasks, along with diagrams and Visualizations. 
-The Workshop demonstrate the use of SQLAlchemy as an ORM connected to MySQL, including data loading, transformation and visualizations.
+_This project consists of a Jupyter Notebook that contains solutions to specific tasks, along with diagrams and Visualizations._ 
+
+_The Workshop demonstrate the use of SQLAlchemy as an ORM connected to MySQL, including data loading, transformation and visualizations._
 
 ### Table of Contents ###
 - [Requirements](#requirements)
@@ -29,21 +30,21 @@ The Workshop demonstrate the use of SQLAlchemy as an ORM connected to MySQL, inc
   }
   ``` 
 ### Setup <a name="setup"></a> ###
-First of all, after you have cloned this repository
-must have installed the following programs:
+_First of all, after you have cloned this repository
+must have installed the following programs:_
 
    - **[Python](https://www.python.org)**
    - **[MySQL](https://www.mysql.com/downloads/)**
    - **[PowerBI](https://powerbi.microsoft.com/es-es/downloads/)**
    - **[VS Code](https://code.visualstudio.com/download)** or **[Jupyter](https://jupyter.org/install)**
 
-Using the **[requirements.txt](https://github.com/RJuanJo/etl_workshop1/blob/main/config/requirements.txt)**
-run the following command in **[Jupyter Notebooks](https://github.com/RJuanJo/etl_workshop1/tree/main/notebooks)**
+_Using the **[requirements.txt](https://github.com/RJuanJo/etl_workshop1/blob/main/config/requirements.txt)**
+run the following command in **[Jupyter Notebooks](https://github.com/RJuanJo/etl_workshop1/tree/main/notebooks)**_
 
 ```python
 pip install -r ../config/requirements.txt
 ```
-Previous command will install the following necessary libraries for the project
+_Previous command will install the following necessary libraries for the project_
 
 ```python
 -importlib

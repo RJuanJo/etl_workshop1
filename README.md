@@ -74,4 +74,6 @@ _The **[Second Notebook](https://github.com/RJuanJo/etl_workshop1/blob/main/note
 
 - Hires by Country Over Years (Multiline Chart): _Hiring trends by the chosen countries over the years._
 
+# These visualizations can be seen in the **[Dashboard Summary]()**.
 
+# In turn, you can access the **[Virtual Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjJjYzhlMzMtMDRiYy00NWRkLTg2ZGQtN2EwNGM2NTMxYjQ5IiwidCI6IjY5M2NiZWEwLTRlZjktNDI1NC04OTc3LTc2ZTA1Y2I1ZjU1NiIsImMiOjR9&pageName=ReportSection)** for a more interactive experience and a greater display of the data.

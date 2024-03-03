@@ -36,7 +36,7 @@ must have installed the following programs:
    - **[MySQL](https://www.mysql.com/downloads/)**
    - **[PowerBI](https://powerbi.microsoft.com/es-es/downloads/)**
 
-Using the **[requirements.txt](https://github.com/RJuanJo/etl_workshop1/edit/main/README.md#requirements)**
+Using the **[requirements.txt](https://github.com/RJuanJo/etl_workshop1/blob/main/config/requirements.txt)**
 run the following command in **[Jupyter Notebooks](
 
 ```python

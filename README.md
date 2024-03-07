@@ -19,7 +19,7 @@ _The Workshop demonstrate the use of SQLAlchemy as an ORM connected to MySQL, in
 - Matplotlib
 - MySQL Workbench
 - **[CSV File](https://github.com/RJuanJo/etl_workshop1/blob/main/data/candidates.csv)**
-- JSON credentials file ("credentials.json") with this format:
+- JSON credentials file ("credentials.json") with this format into the **[config](https://github.com/RJuanJo/etl_workshop1/tree/main/config)** folder:
   
   ```
   {   
